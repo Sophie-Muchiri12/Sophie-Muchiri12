@@ -80,7 +80,7 @@ const sophie = {
 - 🌱 **Learning:** Advanced Python frameworks and cloud technologies
 - 👯 **Looking to Collaborate:** Open source projects and exciting startup ideas
 - 💬 **Ask Me About:** **React, Next.js, Python, JavaScript, Database Design**
-- ⚡ **Fun Fact:** I can turn coffee into code! ☕➡️💻
+- ⚡ **Fun Fact:**I debug with console.log and I'm not ashamed! 😄
 
 ---
 
