@@ -3,7 +3,7 @@
 # 🚀 Hi there, I'm Sophie Muchiri! 
 ### 💻 Passionate Fullstack Developer | 🌟 Tech Enthusiast | 🎨 Creative Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+Next.js+Expert;Python+%7C+JavaScript+Lover;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=black&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+Next.js+Expert;Python+%7C+JavaScript+Lover;Always+Learning+New+Tech" alt="Typing SVG" />
 
 ---
 
